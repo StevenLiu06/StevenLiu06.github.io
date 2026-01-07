@@ -18,29 +18,21 @@ Previously, I worked on Computer Vision and Video Understanding, working with [W
 
 ## 🔥 News
 * **[2025.10]** Our paper **Video-MMLU** was granted the **Outstanding Paper Award** at the ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning!
-* **[2025.09]** Served as a **Teaching Assistant** for *ECE110: Introduction to Electronics* for the Fall 2025 semester.
-
----
-
-## 📚 Research Interests
-* **LLM Agents:** Developing autonomous agents capable of navigating complex GUI environments.
-* **Multimodal Learning:** Understanding video and large-scale academic/instructional content.
-* **Computer Vision:** Video understanding and knowledge-intensive reasoning.
+* **[2025.09]** Served as **Teaching Assistant** for *ECE110: Introduction to Electronics* for the Fall 2025 semester.
 
 ---
 
 ## 📝 Publications
-### Conference & Workshop Papers
-* **Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark** [Enxin Song*](link_to_homepage), [Weili Xu*](link_to_homepage), **Yuxuan Liu**, et al.  
-    *ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning* **[Outstanding Paper Award]** [[Paper Link]](link_to_pdf) [[Project Page]](link_to_project) [[Code]](link_to_github)  
-    * *Summary:* We introduced a massive benchmark for understanding multi-discipline lecture videos, focusing on complex reasoning.
-    * *Citations:* [Google Scholar](link_to_scholar)
+* **Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark** [Enxin Song*](https://enxinsong.com/), [Wenhao Chai*](), [Weili Xu*](https://weili-0234.github.io/), [Jianwen Xie](http://www.stat.ucla.edu/~jxie/), [**Yuxuan Liu**](https://stevenliu06.github.io/), et al.  
+    * Summary: We introduced a massive benchmark for understanding multi-discipline lecture videos, focusing on complex reasoning.
+    * [Paper Link](https://arxiv.org/abs/2504.14693) [Project Page](https://enxinsong.com/Video-MMLU-web/) [Code](https://github.com/Espere-1119-Song/Video-MMLU)  
+    * Citations: [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3h1HP8AAAAAJ&citation_for_view=3h1HP8AAAAAJ:u-x6o8ySG0sC)
 
 ---
 
 ## 👨‍🏫 Teaching & Service
 * **Teaching Assistant**, ECE110: Introduction to Electronics (Fall 2025)  
-    Working with [Prof. Chao Qian](link_to_professor_homepage). Assisted in lab sessions and student mentoring for foundational electronics.
+    Working with [Prof. Chao Qian](https://person.zju.edu.cn/en/chaoqian). Assisted in lab sessions and student mentoring for foundational electronics.
 * **Volunteer Work:** Actively involved in various community service projects, striving to contribute positively to society.
 
 ---
