@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yuxuan Liu (刘昱绚)**, a sophomore majoring in **Electrical and Computer Engineering (ECE)** at **Zhejiang University**. I am currently pursuing a dual degree from [**Zhejiang University**](https://www.zju.edu.cn/english/) and [**University of Illinois Urbana-Champaign**](https://illinois.edu/).
+Hi! I am **Yuxuan Liu (刘昱绚)**, a sophomore majoring in **Electrical and Computer Engineering (ECE)** at **Zhejiang University**. I am currently pursuing a dual degree from [**Zhejiang University**](https://www.zju.edu.cn/english/) and [**University of Illinois Urbana-Champaign**](https://illinois.edu/).
 
 My research interests lie at the intersection of **Artificial Intelligence** and **LLM Agents**. Currently, I am focused on **GUI LLM Agents**, working under the supervision of [Prof. Meng Zhang](https://nexus-mengzhang.vercel.app/).
 
@@ -18,13 +18,13 @@ I also served as a **Teaching Assistant** for [*ECE110: Introduction to Electron
 
 ---
 
-## 🔥 News
+# 🔥 News
 * **[2025.10]** Our paper [**Video-MMLU**]((https://arxiv.org/abs/2504.14693)) was granted the "Outstanding Paper Award" at the ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning!
 * **[2025.09]** Served as **Teaching Assistant** for [*ECE110: Introduction to Electronics*](https://courses.grainger.illinois.edu/ece110/sp2026/) for the Fall 2025 semester!
 
 ---
 
-## 📝 Publications
+# 📝 Publications
 * **Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark** [Enxin Song](https://enxinsong.com/), [Wenhao Chai](https://wenhaochai.com/), [Weili Xu](https://weili-0234.github.io/), [Jianwen Xie](http://www.stat.ucla.edu/~jxie/), [**Yuxuan Liu**](https://stevenliu06.github.io/), et al.  
     * Summary: We introduced a massive benchmark for understanding multi-discipline lecture videos, focusing on complex reasoning.
     * [Paper Link](https://arxiv.org/abs/2504.14693)  [Project Page](https://enxinsong.com/Video-MMLU-web/)  [Code](https://github.com/Espere-1119-Song/Video-MMLU)  
@@ -32,7 +32,7 @@ I also served as a **Teaching Assistant** for [*ECE110: Introduction to Electron
 
 ---
 
-## 🏃 Interests
+# 🏃 Interests
 Beyond academics, I am an enthusiast of:
 * **Volunteer Work:** Actively involved in various community service projects, striving to contribute positively to society.
 * **Sports:** Long-distance running and swimming.
