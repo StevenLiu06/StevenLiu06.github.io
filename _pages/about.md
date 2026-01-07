@@ -20,7 +20,7 @@ I also served as a **Teaching Assistant** for [*ECE110: Introduction to Electron
 
 ## 🔥 News
 * **[2025.10]** Our paper [**Video-MMLU**]((https://arxiv.org/abs/2504.14693)) was granted the "Outstanding Paper Award" at the ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning!
-* **[2025.09]** Served as **Teaching Assistant** for [*ECE110: Introduction to Electronics*](https://courses.grainger.illinois.edu/ece110/sp2026/) for the Fall 2025 semester.
+* **[2025.09]** Served as **Teaching Assistant** for [*ECE110: Introduction to Electronics*](https://courses.grainger.illinois.edu/ece110/sp2026/) for the Fall 2025 semester!
 
 ---
 
