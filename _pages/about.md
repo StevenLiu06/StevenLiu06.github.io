@@ -10,7 +10,7 @@ redirect_from:
 
 I am **Yuxuan Liu (刘昱绚)**, a sophomore majoring in **Electrical and Computer Engineering (ECE)** at **Zhejiang University**. I am currently pursuing a dual degree from [**Zhejiang University**](https://www.zju.edu.cn/english/) and [**University of Illinois Urbana-Champaign**](https://illinois.edu/).
 
-My research interests lie at the intersection of **Artificial Intelligence** and **LLM Agents**. I am passionate about building intelligent systems that can perceive and interact with the world in transformative ways. Currently, I am focused on **GUI LLM Agents**, working under the supervision of [**Prof. Meng Zhang**](https://nexus-mengzhang.vercel.app/).
+My research interests lie at the intersection of **Artificial Intelligence** and **LLM Agents**. Currently, I am focused on **GUI LLM Agents**, working under the supervision of [Prof. Meng Zhang](https://nexus-mengzhang.vercel.app/).
 
 Previously, I worked on Computer Vision and Video Understanding, working with [Weili Xu](https://weili-0234.github.io/) and [Enxin Song](https://enxinsong.com/). I am honored that our work, *Video-MMLU*, received the **Outstanding Paper Award** at the ICCV 2025 Workshop on Knowledge-Intensive Multimodal Reasoning.
 
