@@ -29,7 +29,7 @@ I also served as a **Teaching Assistant** for [*ECE110: Introduction to Electron
 # 📝 Publications
 **Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark** [Enxin Song](https://enxinsong.com/), [Wenhao Chai](https://wenhaochai.com/), [Weili Xu](https://weili-0234.github.io/), [Jianwen Xie](http://www.stat.ucla.edu/~jxie/), [**Yuxuan Liu**](https://stevenliu06.github.io/), et al.  
 * Summary: We introduced a massive benchmark for understanding multi-discipline lecture videos, focusing on complex reasoning.
-* [Paper Link](https://arxiv.org/abs/2504.14693) - [Project Page](https://enxinsong.com/Video-MMLU-web/) - [Code](https://github.com/Espere-1119-Song/Video-MMLU)  
+* [Paper Link](https://arxiv.org/abs/2504.14693) -- [Project Page](https://enxinsong.com/Video-MMLU-web/) -- [Code](https://github.com/Espere-1119-Song/Video-MMLU)  
 * Citations: [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=3h1HP8AAAAAJ&citation_for_view=3h1HP8AAAAAJ:u-x6o8ySG0sC)
 
 
